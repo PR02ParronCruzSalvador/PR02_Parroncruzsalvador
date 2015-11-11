@@ -1,0 +1,140 @@
+#bg{
+background-color: #69d0df;
+}
+
+#logo{
+width: 800px;
+height: 80px;
+margin-top: 1%;
+margin-left: 1%;
+}
+
+#boton{
+  color: white;
+  background-color: #05699a;
+  border: 1px #000000 solid;
+  padding: 5px 20px 5px 20px;
+  font-family: calibri;
+  text-align: center;
+  border-radius: 5px;
+  width: 100px;
+  height: 30px;
+  margin-top: 1%;
+  margin-left: 85%;
+}
+
+#boton2{
+  color: white;
+  background-color: #05699a;
+  border: 1px #000000 solid;
+  padding: 5px 20px 5px 20px;
+  font-family: calibri;
+  text-align: center;
+  border-radius: 5px;
+  width: 100px;
+  height: 30px;
+  margin-top: 1%;
+}
+
+#logo,#boton{
+  display:inline-block;
+}
+
+.menu{
+  color: white;
+  width: 200px;
+  height: 30px;
+  background-color: #05699a;
+  border: 1px #000000 solid;
+  padding: 5px 20px 5px 20px;
+  text-align: center;
+  border-radius: 5px;
+  margin-left: 2%;
+}
+
+h1{
+  color: #071a75;
+  margin-left: 4%;
+  font-family: Copperplate Gothic Light;
+}
+
+.recursos{
+    margin-left: 2%;
+    display: inline-block;
+}
+
+.formulario{
+  background-color: white;
+  width: 70%;
+  height: 70%;
+  border: 1px #000000 solid;
+  border-radius: 5px;
+  margin-right: 10%;
+  float:right;
+  display: inline-block;
+}
+
+.footer{
+  background-image: url('img/footer.png');
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 250px;
+}
+
+h2{
+  color: white;
+  font-family: calibri;
+  font-size: 30px;
+  margin-left: 2%;
+  margin-top: 1%;
+}
+
+h3{
+  color: white;
+  font-family: calibri;
+  text-align: right;
+  font-size: 20px;
+  margin-right: 1px;
+}
+
+h4{
+  color: white;
+  font-family: calibri;
+  font-size: 18px;
+  margin-left: 2%;
+}
+
+h5{
+  color: white;
+  font-family: calibri;
+  font-size: 10px;
+  margin-left: 2%;
+}
+
+.spe{
+  color: white;
+  font-family: calibri;
+  font-size: 18px;
+  text-align: right;
+  margin-top: -11%;
+  margin-right: 40px;
+}
+
+#scroll{
+  color: #05699a;
+  width:100%;
+  height:415px;
+  overflow: scroll;
+  text-align: center;
+
+}
+
+
+#footer{
+  color: white;
+  font-family: calibri;
+  font-size: 18px;
+  margin-left: 60%;
+  position: right;
+  margin-top: -4%;
+}
