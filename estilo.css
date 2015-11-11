@@ -1,0 +1,34 @@
+*{
+	margin:0;
+	padding:0;	
+}
+
+#cuerpo{
+	width:80%;
+	margin:10px auto;
+	border:solid 1px #DADADA;
+	border-radius:5px
+	padding:10px;	
+}
+
+#login,#registro{
+	display:inline-block;
+	vertical-align:top;
+	width:40%;
+	background:#dadada;
+	border:solid 1px #999;
+	margin:10px auto;
+	margin-right:20px;
+	border-radius:5px;
+	padding:10px;
+}
+
+#texto{
+	margin:5px;
+	height:25px;
+	width:150px;
+	padding:5px;
+}
+	
+p{color:blue;}
+
